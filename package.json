@@ -1,5 +1,5 @@
 {
-  "name": "next-cli",
+  "name": "nextjs-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "next-cli": "./index.js"
+    "nextjs-cli": "./index.js"
   },
   "author": "",
   "license": "ISC",
