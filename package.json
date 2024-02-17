@@ -1,6 +1,6 @@
 {
-  "name": "nextjs-cli",
-  "version": "1.0.0",
+  "name": "next-route-craft",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "nextjs-cli": "./index.js"
+    "next-route-craft": "./index.js"
   },
   "author": "",
   "license": "ISC",
